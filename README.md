@@ -1,5 +1,7 @@
 # HCL Dataset Tools
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14217385.svg)](https://doi.org/10.5281/zenodo.14217385)
+
 This repository contains a set of tools for creating and processing datasets, specifically focusing on Terraform repositories. The tools included are:
 
 - RepositorySearcher
